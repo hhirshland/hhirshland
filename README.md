@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hhirshland
-- 👀 I’m interested in blockchain.
+- 👀 I’m interested in blockchain, ai, and health tech, among other things.
 - 📫 How to reach me: hhirshland@gmail.com, henryhirshland on twitter.
 
 <!---
