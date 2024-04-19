@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hhirshland
-- 👀 I’m interested in blockchain, ai, and health tech, among other things.
-- 📫 How to reach me: hhirshland@gmail.com, henryhirshland on twitter.
+- 📫 How to reach me: hhirshland@gmail.com
 
 <!---
 hhirshland/hhirshland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
